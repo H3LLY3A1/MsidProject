@@ -1,0 +1,67 @@
+
+Fold 1 Validation Accuracy: 0.8605
+Fold 1 Validation Classification Report:
+               precision    recall  f1-score   support
+
+           0       0.97      0.67      0.79       382
+           1       0.82      0.99      0.90       586
+
+    accuracy                           0.86       968
+   macro avg       0.89      0.83      0.84       968
+weighted avg       0.88      0.86      0.85       968
+
+Fold 1 Training Accuracy: 0.8642
+Fold 1 Training Classification Report:
+               precision    recall  f1-score   support
+
+           0       0.98      0.67      0.80       762
+           1       0.82      0.99      0.90      1174
+
+    accuracy                           0.86      1936
+   macro avg       0.90      0.83      0.85      1936
+weighted avg       0.88      0.86      0.86      1936
+
+Fold 2 Validation Accuracy: 0.8574
+Fold 2 Validation Classification Report:
+               precision    recall  f1-score   support
+
+           0       0.98      0.65      0.78       381
+           1       0.81      0.99      0.89       587
+
+    accuracy                           0.86       968
+   macro avg       0.90      0.82      0.84       968
+weighted avg       0.88      0.86      0.85       968
+
+Fold 2 Training Accuracy: 0.8636
+Fold 2 Training Classification Report:
+               precision    recall  f1-score   support
+
+           0       0.98      0.67      0.79       763
+           1       0.82      0.99      0.90      1173
+
+    accuracy                           0.86      1936
+   macro avg       0.90      0.83      0.85      1936
+weighted avg       0.88      0.86      0.86      1936
+
+Fold 3 Validation Accuracy: 0.8688
+Fold 3 Validation Classification Report:
+               precision    recall  f1-score   support
+
+           0       0.98      0.68      0.80       381
+           1       0.83      0.99      0.90       587
+
+    accuracy                           0.87       968
+   macro avg       0.90      0.84      0.85       968
+weighted avg       0.89      0.87      0.86       968
+
+Fold 3 Training Accuracy: 0.8585
+Fold 3 Training Classification Report:
+               precision    recall  f1-score   support
+
+           0       0.97      0.66      0.79       763
+           1       0.82      0.99      0.89      1173
+
+    accuracy                           0.86      1936
+   macro avg       0.90      0.82      0.84      1936
+weighted avg       0.88      0.86      0.85      1936
+
